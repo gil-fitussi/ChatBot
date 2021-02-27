@@ -17,8 +17,6 @@ namespace ChatBot
 
         static void Main(string[] args)
         {
-            Log.Information("Client app start..");
-
             // Basic .Net Core Configuration
             Configuation();
 
